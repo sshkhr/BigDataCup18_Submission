@@ -1,0 +1,6 @@
+# ignore data files
+*.jpg
+*.xml
+
+# ignore model files
+*.h5
